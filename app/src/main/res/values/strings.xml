@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CrazyCount</string>
+    <string name="initial">0</string>
+    <string name='limit'>This is the limit!!!</string>
+    <string name="maximum">9999</string>
+    <string name="minimum">-9999</string>
+</resources>

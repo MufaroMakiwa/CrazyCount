@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3b5998</color>
+    <color name="colorPrimaryDark">#6d84b4</color>
+    <color name="colorAccent">#3b5998</color>
+    <color name="FirstOne">#3b9943</color>
+    <color name="FirstTwo">#3b0751</color>
+    <color name="FirstThree">#3b3443</color>
+    <color name="FirstFour">#3b3943</color>
+    <color name="FirstFive">#7b1413</color>
+    <color name="original">#9b4532</color>
+    <color name="FirstSix">#8b5434</color>
+
+</resources>
